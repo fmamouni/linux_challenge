@@ -1,5 +1,0 @@
- this is the challenge
-<<<<<<< HEAD
-=======
-This is the challenge
->>>>>>> bfb5bb35e82fdb18e1539b4042998ea77984b1d5
